@@ -49,7 +49,11 @@ Special thanks to the **Power BI community instructor** for their guidance.
 
 ## 📸 Screenshots
 
-![Dashboard Preview](Screenshot 2025-05-16 061818.png)
+![Dashboard Preview](https://github.com/ammargamal2005/ecommerce-powerbi-dashboard/blob/main/Screenshot%202025-05-16%20061818.png)
+
+![Dashboard Preview](https://github.com/ammargamal2005/ecommerce-powerbi-dashboard/blob/main/Screenshot%202025-05-16%20061828.png)
+
+![Dashboard Preview](https://github.com/ammargamal2005/ecommerce-powerbi-dashboard/blob/main/Screenshot%202025-05-16%20061837.png)
 
 ---
 
