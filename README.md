@@ -49,7 +49,7 @@ Special thanks to the **Power BI community instructor** for their guidance.
 
 ## 📸 Screenshots
 
-![Dashboard Preview](assets/dashboard_screenshots.png)
+![Dashboard Preview](Screenshot 2025-05-16 061818.png)
 
 ---
 
